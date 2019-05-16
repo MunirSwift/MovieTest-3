@@ -1,7 +1,9 @@
 # MovieTest-3
 
 I have used Podfile kingfisher for image access, 
-and also used SwiftyJson for parsing json response by prototype modals.
+and also used SwiftyJson for parsing json response and storing into prototype models.
+Also used Core data and nsuser default for storing custom struct class into it.
+Also used high level function for filtering search result.
 
 There are 2 view controller and 1 youtubeclient with notification observer for detecting user event or on completing movie handler.
 
@@ -10,7 +12,9 @@ First viewcontroller will display the load the popular movie into the tableview.
 
 This swift sample is developed for Adaptive Layout which means any screen sizez or screen orientation, can work on them easiy with intrinsic layout theme.
 
-This is just an example to justify the way of Swift coding.
+This is just an example to justify the way of my Swift coding.
+
+Net & Clean code, Not for me only, it can be for you !!
 
 Thank you,
 
