@@ -14,7 +14,7 @@ This swift sample is developed for Adaptive Layout which meant any screen sizes 
 
 This is just an example to justify the way of my Swift coding.
 
-Net & Clean code, Not for me only, it can be for you !!
+Neat & Clean code, Not for me only, it can be for you !!
 
 Thank you,
 
