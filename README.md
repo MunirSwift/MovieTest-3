@@ -7,10 +7,10 @@ Also used high level function for filtering search result.
 
 There are 2 view controller and 1 youtubeclient with notification observer for detecting user event or on completing movie handler.
 
-First viewcontroller will display the load the popular movie into the tableview.
-2nd viewcontroller will render the details about the movie. There is Watch button for playing live movie.
+First viewcontroller will load the popular movie into the tableview through json.
+2nd viewcontroller will render the details about the movie. There is Watch button for playing live movie through xcdyoutubeclent.
 
-This swift sample is developed for Adaptive Layout which means any screen sizez or screen orientation, can work on them easiy with intrinsic layout theme.
+This swift sample is developed for Adaptive Layout which meant any screen sizes or screen orientations, can be worked on them easiy by using intrinsic layout feature.
 
 This is just an example to justify the way of my Swift coding.
 
