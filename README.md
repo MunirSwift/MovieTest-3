@@ -5,4 +5,9 @@ and also used SwiftyJson for parsing json response by prototype modals.
 
 This is just an example to justify the way of Swift coding.
 
+Thank you,
+
+Munir Abbas
+m7unity@gmail.com
+
 
